@@ -153,6 +153,9 @@ font-family: 'Poppins', sans-serif;
     align-items: center;
     justify-content: space-between;
 }
+header.fixed-top.bg-dark.shadow .nav-area {
+    padding: 8px 0;
+}
 /********HAMBURGER ICON***********/
 .hamburger 
 {
